@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Pygame
 - 💞️ I’m looking to collaborate on coding
-- 📫 How to reach me 843974010@qq.c0m
+- 📫 How to reach me 843974010@qq.com
 - 😄 Pronouns: he\him
 - ⚡ Fun fact: Good good study, day day up!
 
